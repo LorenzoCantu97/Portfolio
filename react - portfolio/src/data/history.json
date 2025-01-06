@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "DISTRIBUIDORA EXCEL S.A DE C.V",
+        "startDate": "Nov, 2023",
+        "endDate": "Present",
+        "experiences": ["Worked on ERP software", "Reduced memory space"],
+        "imageSrc": "/assets/history/Diexsa.png"
+    },
+    {
+        "role": "Fullstack Developer Jr",
+        "organisation": "Somos Proper",
+        "startDate": "Jun, 2022",
+        "endDate": "Feb, 2024",
+        "experiences": ["Worked on POS software", "Designed tickets system"],
+        "imageSrc": "/assets/history/Proper.png"
+    },
+    {
+        "role": "Software Developer Intern",
+        "organisation": "TootleSoft A.C.",
+        "startDate": "Dic, 2022",
+        "endDate": "Jun, 2023",
+        "experiences": ["Worked on ERP software", "Helped to migrate to Vue.js"],
+        "imageSrc": "/assets/history/TootleSoft.png"
+    }
+]

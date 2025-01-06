@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Restaurant Managment",
+        "imageSrc": "/assets/projects/project.png",
+        "description": "This is a project made to learn Vue.JS and Express",
+        "skills": ["Vue.JS", "Express", "Node"],
+        "source": "https://github.com/LorenzoCantu97/restaurantes"
+    },
+    {
+        "title": "Parking Managment",
+        "imageSrc": "/assets/projects/project.png",
+        "description": "This is a project made to learn C sharp",
+        "skills": ["React", "Express", "Node"],
+        "source": "https://github.com/LorenzoCantu97/ControlEstacionamiento"
+    }   
+]

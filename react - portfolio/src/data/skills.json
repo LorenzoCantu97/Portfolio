@@ -1,0 +1,30 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "/assets/skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "/assets/skills/css.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "/assets/skills/react.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "/assets/skills/node.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "/assets/skills/mysql.png"
+    },
+    {
+        "title": "SQL Server",
+        "imageSrc": "/assets/skills/sqlServer.png"
+    },
+    {
+        "title": "C Sharp",
+        "imageSrc": "/assets/skills/cSharp.png"
+    }
+]
